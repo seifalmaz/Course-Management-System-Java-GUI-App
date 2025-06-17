@@ -1,36 +1,63 @@
-# Course-Management-System-Java-GUI-App
-A desktop-based Java application for managing university courses, instructors, and grading. Built using Java Swing and Object-Oriented Programming principles, this system provides an admin interface to:
+# 📚 Course Management System – Java GUI Application
 
-👨‍🏫 Add, remove, and update instructors and courses
+A desktop-based Java application for managing university courses, instructors, and grading. This project was developed using **Java Swing** and follows core **Object-Oriented Programming (OOP)** principles. It provides an intuitive interface for administrators to manage academic data effectively.
 
-📝 Assign grades to courses
+---
 
-🔐 Authenticate via a login panel
+## 🎯 Features
 
-📊 Display course information through a clean UI
+- 🔐 **Login System** – Basic authentication for admin access.
+- 📘 **Course Management** – Add, update, and remove courses.
+- 👨‍🏫 **Instructor Panel** – Assign instructors to courses.
+- 📝 **Grade Assignment** – Manage course grades for instructors.
+- 🪟 **User Interface** – Built with Java Swing for an interactive GUI.
+- 🧠 **Modular Codebase** – Clean separation between models, GUI, and logic.
 
-✨ Features:
+---
 
-Modular MVC-like structure (separates GUI, logic, and models)
+## 🛠️ Technologies Used
 
-Extensible and beginner-friendly codebase
+- **Java SE 8+**
+- **Java Swing (GUI)**
+- **OOP (Classes, Inheritance, Encapsulation)**
+- IDE: Visual Studio Code / IntelliJ IDEA
 
-Easily integrable with file storage or databases
+---
 
-Java 8+ compatible
+## 🚀 Getting Started
 
-🛠️ Technologies:
-Java SE (Swing)
+### ✅ Prerequisites
+- Java JDK 8 or higher
+- A Java-compatible IDE like IntelliJ or VS Code
 
-IntelliJ IDEA / VS Code
+### 📦 How to Run
 
-Java Collections & OOP
+1. Clone or download the repository.
+2. Open the project in your Java IDE.
+3. Navigate to `Main.java` inside the project files.
+4. **Run `Main.java`** to launch the application.
 
-🚀 Future Improvements:
-Add file-based or DB persistence
+> 🟢 The login credentials are set by default as:
+> - **Username:** `admin`
+> - **Password:** `admin123`
 
-Use more flexible layout managers (GridBagLayout, GroupLayout)
+---
 
-Replace hardcoded login with secure credential storage
+## 📈 Future Improvements
 
-Improve GUI responsiveness
+- 💾 Add file-based or database persistence for saving courses/instructors
+- 🧩 Replace hardcoded login with secure credential storage
+- 📐 Use layout managers like `GridBagLayout` for responsive design
+- 📊 Add reporting features (course performance, grade distributions)
+
+
+---
+
+## 🙋‍♂️ Author
+
+**Seif Ahmed**  
+[LinkedIn Profile](https://www.linkedin.com/in/seif-almaz/) 
+Computer Science Student – Helwan National University
+
+---
+

@@ -9,7 +9,8 @@ A desktop-based Java application for managing university courses, instructors, a
 
 📊 Display course information through a clean UI
 
-✨ Features
+✨ Features:
+
 Modular MVC-like structure (separates GUI, logic, and models)
 
 Extensible and beginner-friendly codebase
@@ -18,14 +19,14 @@ Easily integrable with file storage or databases
 
 Java 8+ compatible
 
-🛠️ Technologies
+🛠️ Technologies:
 Java SE (Swing)
 
 IntelliJ IDEA / VS Code
 
 Java Collections & OOP
 
-🚀 Future Improvements
+🚀 Future Improvements:
 Add file-based or DB persistence
 
 Use more flexible layout managers (GridBagLayout, GroupLayout)

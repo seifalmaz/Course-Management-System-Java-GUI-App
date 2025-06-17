@@ -1,0 +1,6 @@
+# Users Data - type|username|password|name|additionalData
+ADMIN|admin|123|Almaz|
+INSTRUCTOR|seif|123|Seif Ahmed |Advanced PL
+INSTRUCTOR|ins1|123|Osama|None
+STUDENT|stu1|123|Hesham|Advanced PL:85.0:B
+ADMIN|admin2|123|Salmaz|
